@@ -4,7 +4,7 @@
 - 🏧 Formerly - Systems Software Engineer, Diebold Nixdorf (2014 - 2018)
 - 🎓 Case Western Reserve University; Graduate 2014
 - 🌱 I’m currently writing a git client in C++, called [fons](https://github.com/StephenLHern/fons), in my spare time
-- 💞️ My interests: Cooking, Traveling, Reading, Purchasing computer games I never actually play
+- 💞️ My interests: cooking, traveling, reading, purchasing computer games I never actually play
 
 👨‍💻 Experience With
 ---------------
